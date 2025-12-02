@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "第一次世界",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:02:35.076211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "第一次世界",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/01_第一次世界_NEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "第一次世界",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_第一次世界_NEE.txt"
+    }
+  ]
+}
